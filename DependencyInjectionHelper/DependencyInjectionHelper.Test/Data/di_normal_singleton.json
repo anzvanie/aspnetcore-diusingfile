@@ -1,0 +1,7 @@
+[
+  {
+    "ServiceName": "DependencyInjectionHelper.Test.DummyClass.IDummy1",
+    "ImplementationName": "DependencyInjectionHelper.Test.DummyClass.Dummy1",
+    "Scope": "Singleton"
+  }
+]
